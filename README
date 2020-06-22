@@ -1,0 +1,3 @@
+1.this is a user interface created by qt5(windows) to control a real nachi robot.
+2.to run the project,you need to install nachi's SDK(OpenNR_IF) on your windows PC.
+3.you can contact with nachi corporation to get the SDK for free. 
